@@ -4,7 +4,7 @@
 
 ## Welcome! 👋
 
-Repo: https://mostafahatem2.github.io/browser-extensions-manager/
+Live Demo: https://mostafahatem2.github.io/browser-extensions-manager/
 
 Thanks for checking out this front-end coding challenge.
 
